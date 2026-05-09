@@ -1,0 +1,23 @@
+# Compiled files
+*.class
+*.jar
+*.war
+
+# IDE files
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
